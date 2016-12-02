@@ -10,11 +10,10 @@ your individual expense and group expense with your roommates. The user can also
 expense to excel spreadsheet. After all, this application will help the users to understand what’s really going on with their money.  
 
 # Build instruction:
-1. Unzip the file.
-2. In the directory, type “ant cleanall” in command prompt
-3. In the directory, type “ant build” in command prompt
-4. In the directory, type “ant main” in command prompt
-5. The program should be up.
+1. In the build.xml directory, type “ant cleanall” in command prompt
+2. In the build.xml directory, type “ant build” in command prompt
+3. In the build.xml directory, type “ant main” in command prompt
+4. The program should be up.
 
 # Notes:
 1. I added a test file you can load “123”. You can type 123 for the file name to load in the load screen.
