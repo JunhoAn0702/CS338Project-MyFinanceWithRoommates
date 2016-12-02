@@ -8,7 +8,7 @@ with your roommates. In the initial screen of application, the user can either c
 file. The user can analyze the monthly expense in various types of charts, and each chart has two types for 
 your individual expense and group expense with your roommates. The user can also save/load the data. After all, this 
 application will help the users to understand what’s really going on with their money.  
-
+Blog URL: https://drexelui.wordpress.com/2016/12/02/my-finance-with-roommates/
 # Build instruction:
 1. Downalod or clone the project.
 2. In the build.xml directory, type “ant cleanall” in command prompt
