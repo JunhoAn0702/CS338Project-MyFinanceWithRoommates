@@ -1,4 +1,4 @@
-# MyFinanceWithRoommates
+# My Finance With Roommates
 This is for CS338 GUI Project
 
 # My Finance with Roommates
